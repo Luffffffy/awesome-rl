@@ -37,6 +37,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
     - [C/Lisp Code](http://incompleteideas.net/book/code/code2nd.html)
     - [Julia Code](https://github.com/Ju-jl/ReinforcementLearningAnIntroduction.jl)
     - [Book](http://incompleteideas.net/book/RLbook2018.pdf)
+    - [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
  - Simulation code for Reinforcement Learning Control Problems
     - [Pole-Cart Problem](http://pages.cs.wisc.edu/~finton/poledriver.html)
     - [Q-learning Controller](http://pages.cs.wisc.edu/~finton/qcontroller.html)
@@ -61,10 +62,12 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) - Popular deep RL algorithm implementations with PyTorch
  - [ChainerRL](https://github.com/chainer/chainerrl) - Popular deep RL algorithm implementations with Chainer
  - [Black-DROPS](https://github.com/resibots/blackdrops) - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
+ - [Gold](https://github.com/aunum/gold) - A reinforcement learning library for Golang.
 
 ## Theory
 
 ### Lectures
+- [DeepMind x UCL] [Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
  - [UCL] [COMPM050/COMPGI13 Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver
  - [UC Berkeley] CS188 Artificial Intelligence by Pieter Abbeel
    - [Lecture 8: Markov Decision Processes 1](https://www.youtube.com/watch?v=i0o-ui1N35U)
@@ -89,12 +92,14 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 
 ### Books
  - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [[Book]](http://incompleteideas.net/book/ebook/the-book.html) [[Code]](http://incompleteideas.net/book/code/code.html)
- - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [[Book]](http://incompleteideas.net/book/RLbook2018.pdf) [[Code]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+ - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [[Book]](http://incompleteideas.net/book/RLbook2020.pdf) [[Code]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
  - Csaba Szepesvari, Algorithms for Reinforcement Learning [[Book]](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
  - David Poole and Alan Mackworth, Artificial Intelligence: Foundations of Computational Agents [[Book Chapter]](http://artint.info/html/ArtInt_262.html)
  - Dimitri P. Bertsekas and John N. Tsitsiklis, Neuro-Dynamic Programming [[Book (Amazon)]](http://www.amazon.com/Neuro-Dynamic-Programming-Optimization-Neural-Computation/dp/1886529108/ref=sr_1_3?s=books&ie=UTF8&qid=1442461075&sr=1-3&refinements=p_27%3AJohn+N.+Tsitsiklis+Dimitri+P.+Bertsekas) [[Summary]](http://www.mit.edu/~dimitrib/NDP_Encycl.pdf)
  - Mykel J. Kochenderfer, Decision Making Under Uncertainty: Theory and Application [[Book (Amazon)]](http://www.amazon.com/Decision-Making-Under-Uncertainty-Application/dp/0262029251/ref=sr_1_1?ie=UTF8&qid=1441126550&sr=8-1&keywords=kochenderfer&pebp=1441126551594&perid=1Y6RG2EGRD26659CJHH9)
  - Deep Reinforcement Learning in Action [[Book(Manning)]](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+ - REINFORCEMENT LEARNING AND OPTIMAL CONTROL Dimitri P. Bertsekas [BOOK, VIDEOLECTURES, AND COURSE MATERIAL, 2019](http://web.mit.edu/dimitrib/www/RLbook.html)
+ 
 
 
 ### Surveys
@@ -249,6 +254,8 @@ Computer Games
   - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - github-based course in reinforcement learning in the wild (lectures, coding labs, projects)
   - [RLenv.directory: Explore and find new reinforcement learning environments.](https://rlenv.directory/)
   - Katja Hofmann's talk at NeurIPS '19 - [RL: Past, Present and Future Perspectives](https://slideslive.com/38922817/reinforcement-learning-past-present-and-future-perspectives)
+  - [How to Structure, Organize, Track and Manage Reinforcement Learning (RL) Projects](https://neptune.ai/blog/how-to-structure-organize-track-and-manage-reinforcement-learning-rl-projects)
+  - [Reinforcement Learning Cheat Sheet](https://alxthm.com/assets/pdf/rl-cheatsheet.pdf) - A summary of some important concepts and algorithms in RL
 
 
 
@@ -280,4 +287,10 @@ Computer Games
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
 - [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) - Create reinforcement learning environments using the Unity Editor
 - [Intel Coach](https://github.com/NervanaSystems/coach) - Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.
-- [Microsoft AirSim](https://microsoft.github.io/AirSim/docs/reinforcement_learning/) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
+- [Microsoft AirSim](https://microsoft.github.io/AirSim/reinforcement_learning/) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
+
+## valuable Contributors👩‍💻👨‍💻 :
+
+<p align="center"><a href="https://github.com/aikorea/awesome-rl">
+  <img src="https://contributors-img.web.app/image?repo=aikorea/awesome-rl" />
+</a></p>
