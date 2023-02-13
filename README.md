@@ -62,12 +62,14 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [ChainerRL](https://github.com/chainer/chainerrl) - Popular deep RL algorithm implementations with Chainer
  - [Black-DROPS](https://github.com/resibots/blackdrops) - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
  - [Gold](https://github.com/aunum/gold) - A reinforcement learning library for Golang.
+ - [Jumanji](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 
 ## Theory
 
 ### Lectures
 - [DeepMind x UCL] [Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
  - [UCL] [COMPM050/COMPGI13 Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver
+ - [UCL] [COMPMI22/COMPGI22 - Advanced Deep Learning and Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
  - [UC Berkeley] CS188 Artificial Intelligence by Pieter Abbeel
    - [Lecture 8: Markov Decision Processes 1](https://www.youtube.com/watch?v=i0o-ui1N35U)
    - [Lecture 9: Markov Decision Processes 2](https://www.youtube.com/watch?v=Csiiv6WGzKM)
@@ -87,7 +89,11 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
    - [Solving the basic game of Pong](https://youtu.be/pN7ETkOizGM)
    - [Actor Critic Algorithms](https://youtu.be/w_3mmm0P0j8)
    - [War Robots](https://youtu.be/tm5kQmjfZN8)
-    
+ - [Mutual Information] [Reinforcement Learning Fundamentals](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
+   - [Reinforcement Learning: A Six Part Series](https://youtu.be/NFo9v_yKQXA)
+   - [The Bellman Equations, Dynamic Programming, and Generalized Policy Iteration](https://youtu.be/_j6pvGEchWU)
+   - [Monte Carlo And Off-Policy Methods](https://youtu.be/bpUszPiWM7o)
+   - [TD Learning, Sarsa, and Q-Learning](https://youtu.be/AJiG3ykOxmY)
 
 ### Books
  - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [[Book]](http://incompleteideas.net/book/ebook/the-book.html) [[Code]](http://incompleteideas.net/book/code/code.html)
@@ -225,7 +231,8 @@ Computer Games
  - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) - Popular deep RL algorithm implementations with PyTorch
  - [ChainerRL](https://github.com/chainer/chainerrl) - Popular deep RL algorithm implementations with Chainer
  - [Black-DROPS](https://github.com/resibots/blackdrops) - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
- 
+ - [Jumanji](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+
  
  
  ## Tutorials / Websites
@@ -288,6 +295,7 @@ Computer Games
 - [Intel Coach](https://github.com/NervanaSystems/coach) - Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.
 - [Microsoft AirSim](https://microsoft.github.io/AirSim/reinforcement_learning/) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
 - [DI-engine](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+- [Jumanji](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 
 ## valuable Contributors👩‍💻👨‍💻 :
 
